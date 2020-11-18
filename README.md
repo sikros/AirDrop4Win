@@ -2,6 +2,8 @@
 
 通过快捷指令在windows上实现airdrop推送功能
 
+视频演示： http://oss.starchina.top/images/demovideo/airdrop.mp4
+
 
 **手机端请在捷径沙盒小程序搜索AirDrop下载**
 
